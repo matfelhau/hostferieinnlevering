@@ -16,7 +16,7 @@ type CartContextType = {
 
 const CartContext = createContext<CartContextType>({
     cart: [],
-    cartTotal: "0",
+    cartTotal: '0',
     changeProductQuantity: () => {},
     removeProduct: () => {},
     addToCart: () => {}
