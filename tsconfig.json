@@ -60,7 +60,7 @@
     "**/*.cjs",
     "**/*.js",
     ".next/types/**/*.ts"
-  ],
+, "src/app/api/products.jsx"  ],
   "exclude": [
     "node_modules",
     "./coverage/**/*"
